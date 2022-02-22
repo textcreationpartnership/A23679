@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preacht in Bridgewater, the next day after the election of burgesses, February 27, 1680/1 by William Allen, B.D., and Vicar of Bridgewater, Somerset.</title>
+            <author>Allen, William, fl. 1681-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23679</idno>
+            <idno type="STC">Wing A1079</idno>
+            <idno type="STC">ESTC R9086</idno>
+            <idno type="EEBO-CITATION">12711832</idno>
+            <idno type="OCLC">ocm 12711832</idno>
+            <idno type="VID">66124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 680:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preacht in Bridgewater, the next day after the election of burgesses, February 27, 1680/1 by William Allen, B.D., and Vicar of Bridgewater, Somerset.</title>
+                  <author>Allen, William, fl. 1681-1697.</author>
+               </titleStmt>
+               <extent>[4], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXI, 15 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66124:1"/>
+            <pb facs="tcp:66124:1" rendition="simple:additions"/>
+            <p>A SERMON Preacht in Bridgewater, The next day after the ELECTION OF BURGESSES, FEBRUARY 27. 1680/1. BY <hi>WILLIAM ALLEN,</hi> B.D. and Vicar of <hi>Bridgewater, Somerſet.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>G. S.</hi> in the Year 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:66124:2"/>
+            <pb facs="tcp:66124:2"/>
+            <head>To the Worſhipful <hi>RICHARD CAN</hi> MAYOR, <hi>John Gilbert</hi> Senior, and <hi>John Harey,</hi> Aldermen of the Burrough of <hi>Bridgewater.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THe Preſenter of this Epiſtle is very much the Servant of Col. <hi>Ralph Stawel;</hi> as any man muſt needs be, that loves either his Prince or his Countrey, and has the Honour to know that worthy Gentleman. He has likewiſe the Happineſs to be of the acquaintance of the Miniſter that Preached this enſuing Sermon. Now knowing full well how great a Reverence and Eſteem your Worſhips have for the Honourable Colonel, and this Reverend Divine, this your Supplicant could do no better than recommend the Honourable Colonel, and the Reverend Divine aforeſaid, to your Fatherly Care and Protection.</p>
+            <p>It is moſt certain that the Generous Colonel has been extremely abuſed behind his back, by ſome that he deſerved better from, upon occaſion of the late Election; and the Divine likewiſe hath born his part in Reproaches about his late Sermon. I
+<pb facs="tcp:66124:3"/>am not a perſon to name People, in any caſe of ſcandal; and therefore I ſhall content my ſelf to give your Worſhips a Hint of what paſſed lately concerning theſe Gentlemen, and leave the reſt to your Worſhips Wiſdom and Conſideration.</p>
+            <p>It is ſaid for a certain, that in ſome Company not unknown to your Worſhips, upon occaſion of Diſcourſe with ſome People of this Neighbour<g ref="char:EOLhyphen"/>hood, there were ſome very ill words ſpoken, and ill things done by a Knave, a Fool, and a Cuckold, with relation to the Noble Colonel, and this wor<g ref="char:EOLhyphen"/>thy Divine. If you can either gueſs at the Men, or if you have heard of the thing, this is hum<g ref="char:EOLhyphen"/>bly to beg of you, that you will interpoſe your Diſcretion and Authority in the matter, that it may go no further; and that you will be pleaſed to keep this to your ſelves. This comes from a man that muſt be nameleſs, and that beſeeches you over and over, not to let either the Fool, the Knave, or the Cuckold (if you ſhould happen to ſtumble upon them) to have any knowledge how This comes to your hand.</p>
+            <closer>
+               <salute>The Lord have you in his keeping.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:66124:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 21.</hi> v. <hi>15.</hi>
+                  </bibl>
+                  <p>It is a Joy to the Juſt to do Judgment.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>IT would be happy with the World,</hi> (ſays <hi>Plato) were Kings Philoſophers, or Philoſophers Kings;</hi> Their Wiſdom inſtructing them in all the Me<g ref="char:EOLhyphen"/>thods of Peace, and their Tempers more than inclining them to the practice of <hi>them.</hi> But we have a more ſure word of Prophecy to give heed to, and a greater than <hi>Plato</hi> tells us,
+<note place="margin">Pro. 14.34.</note> that <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs exalteth a Nation. When it goeth well with the righteous, the City rejoyces;</hi>
+               <note place="margin">&amp; 11.11.</note> and <hi>by the Bleſſing of the upright the City is exalted.</hi> But it is one of the grea<g ref="char:EOLhyphen"/>teſt plagues can befal a People, or a Body-politick, when <hi>Children are given to be their Princes,</hi>
+               <note place="margin">Iſai. 3.4.</note> 
+               <hi>and Babes ſhall rule over them;</hi> and that not ſo much in Age, as Underſtanding: And yet that defect would not be ſo miſchievous neither, if they had honeſt hearts, and that it were a joy to them, <hi>as juſt,</hi> to do Judgment. And this refers not ſo much to Kings as <hi>Supreme,</hi> as to thoſe that are in Authority under them. And happy would it have been for this Kingdom, if the Righteouſneſs eſtabliſhed by its <hi>Laws</hi> had been the meaſures of ſubordinate Magiſtrates proceedings; and that it had been a Joy to them, as juſt both to God and their King, to have done Judgment. In accoun<g ref="char:EOLhyphen"/>ting for the words, which is the Wiſeman's Doctrinal remark, I ſhall undertake to ſhew theſe following Truths;</p>
+            <pb n="2" facs="tcp:66124:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Firſt.</hi> That an Habitual Righteouſneſs, or Juſtice of Minde, fits a man for Government, or doing Judg<g ref="char:EOLhyphen"/>ment, if call'd to it as a Magiſtrate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly.</hi> That the <hi>People</hi> rejoyce in the Admini<g ref="char:EOLhyphen"/>ſtrations of ſuch men, thus qualified, to whom it is a joy to do Judgment.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Thirdly.</hi> We are to conſider the Satisfaction the Juſt man, or Magiſtrate, hath in doing Judgment.</p>
+            <q>It is a Joy to the Just to do Judgment.</q>
+            <p>In accounting for the firſt, I ſay, That the Holy and Righteous God is the great Rector of the World: He is King of Kings, and Lord of Lords; and becauſe He is Holy and Righteous, all things are diſpenſed in Number, Weight and Meaſure. And thô there are ſome Intrigues in his Providence, and <hi>Arcana's</hi> of Kingdom,
+<note place="margin">Rom. 11.33.</note> which we cannot fathom or comprehend, <hi>For his Judgments,</hi> or procedures, <hi>are past finding out;</hi> yet every thing is ordered [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>ac<g ref="char:EOLhyphen"/>cording to the Council of his Will,</hi> which is not arbi<g ref="char:EOLhyphen"/>trary, but according to his own Wiſdome, Juſtice and Goodneſs. And as the Kingly Prophet declares <hi>God to be Judge;</hi> ſo the Father of the faithful aſſures, <hi>that the Judge of all the Earth will do right.</hi> 'Tis he a<g ref="char:EOLhyphen"/>lone that by his Power and Wiſdome prevents and defeats many of thoſe Deſigns of Miſchief, that evil Spirits or evil men would plague the world withal.</p>
+            <p>And as 'tis He that ſometimes turns the hearts of Princes,
+<note place="margin">Prov. 21.1.</note> 
+               <hi>[which are in his hands]</hi> as the Rivers of waters; ſo it is he that ſtills the raging of the people, and brings to light the hidden works of darkneſs. And what no eye can ſee, but the <hi>All-ſeeing One,</hi> he expoſeth to open view.</p>
+            <pb n="3" facs="tcp:66124:4"/>
+            <p>Thoſe Malefactors which come not under the Co<g ref="char:EOLhyphen"/>gniſance of humane Judicatures, <hi>He</hi> brings forth to the Bar. And we know by Experience, that the <hi>Treaſon</hi> ſome time ſince directed againſt the Lord's Anointed, and the murderous Hoſtilities of others committed a<g ref="char:EOLhyphen"/>gainſt their Brethren, hath been by a wonderful Pro<g ref="char:EOLhyphen"/>vidence detected, even to the aſtoniſhment of the world.</p>
+            <p>In theſe and the like other inſtances, God may be ſaid to execute his Vengeance, and declare that he him<g ref="char:EOLhyphen"/>ſelf is Judge: And by ſuch extraordinary proceedings convince the world of that excellent Saying of the Pſalmiſt, <hi>Except the Lord keep the City,</hi>
+               <note place="margin">Pſal. 127.1.</note> 
+               <hi>the Watch<g ref="char:EOLhyphen"/>man waketh but in vain.</hi>
+            </p>
+            <p>Neither hath he given us proofs only of his Go<g ref="char:EOLhyphen"/>verning the World, in remarkable Examples of his Punitive Juſtice; but in the expreſſions of his Grace and Mercy towards thoſe that love and fear him: by rewarding their Virtue, in advancing their Perſons; by making them conſpicuous and great in the world, glorious in mens eyes, as well as gracious in his.</p>
+            <p>And becauſe he is Righteous, he pleads the Cauſe of the Fatherleſs and of the Widow, and hears their Prayers when they cry unto him, and avengeth the wrong done unto them, when others concern'd, either would not, or could not. And ever when it conſiſts with the innocent and injured's real advantage, (which God knows beſt) he delivers them out of all their troubles. So that, though he reſerve many things for the determination of the great Day of Retribu<g ref="char:EOLhyphen"/>tion; yet that all may know, that there is a God that <hi>now</hi> judgeth the earth, he makes men <hi>even now</hi> ſenſible, that in <hi>this</hi> world they are rewarded accor<g ref="char:EOLhyphen"/>ding to their Works. And every mans own Con<g ref="char:EOLhyphen"/>ſcience tells him, though none elſe is conſcious of it,
+<pb n="4" facs="tcp:66124:5"/>that God to him is juſt, and righteous in all his dealings.</p>
+            <p>But though God be Judge, and that eminently ſo, and the righteous Judge, yet hath he deputed Men as his Subſtitutes; the King as Supreme under him, and other Magiſtrates as ordained by the King. Magi<g ref="char:EOLhyphen"/>ſtracy, which is but a Power over others for a com<g ref="char:EOLhyphen"/>mon Good, is a pious and primitive Inſtitution deri<g ref="char:EOLhyphen"/>vative from God, the great and ſole Monarch of the World: <hi>Firſt</hi> founded in the Paternal Relation, and <hi>that</hi> afterward expanded but as Families increas'd.</p>
+            <p>And <hi>Honour thy Father and thy Mother, which is the firſt Commandment with promiſe,</hi> engageth us equally, if not more, to Obedience to the <hi>Pater Pa<g ref="char:EOLhyphen"/>triae,</hi> to Kings and Queens, as Nurſing-Fathers and Nurſing-Mothers, as to our proximate or deareſt Re<g ref="char:EOLhyphen"/>latives. And therefore the <hi>Hypotheſis</hi> of <hi>Hobbes</hi> and <hi>Calvin,</hi> are as abſurd as miſchievous, in making Kings and Magiſtrates the creatures of the People. <hi>Juſtin</hi> the Heathen tells us, <hi>Principio rerum Gentium Nationumque Imperium penes Reges erat:</hi> That in the beginning of time the Government of the World, in all the Kingdoms of it, was managed by Kings and Monarchs.</p>
+            <p>I ſay, both profane and Scripture-Hiſtory aſſure us, that Kingly Government was the firſt Eſtabliſh<g ref="char:EOLhyphen"/>ment. And though the <hi>Moſaical</hi> Government be urged as a refutation of this propoſal, yet it is re<g ref="char:EOLhyphen"/>joyned, that <hi>that</hi> was a <hi>Theocraſie;</hi> nay and as hu<g ref="char:EOLhyphen"/>mane it was Monarchical too,
+<note place="margin">Deut. 33.5.</note> for <hi>Moſes</hi> is ſaid to be <hi>King in Jeſurun.</hi> And it is evident from <hi>Joſephus</hi> and the <hi>Machabees,</hi> and other Writers, that when that people fell under the Government of a <hi>Sanhe<g ref="char:EOLhyphen"/>drim,</hi> that is, a <hi>Presbytery,</hi> they ſoon fell into ruine, and became not a people. But not to animadvert upon their Misfortunes, nor to make that an Argu<g ref="char:EOLhyphen"/>ment
+<pb n="5" facs="tcp:66124:5"/>of the Juſtice or Injuſtice of any particular <hi>Polity;</hi> It is very clear from the Records of the firſt Times, that the Government of a Commonwealth is but an Apoſtacy from (if not a Rebellion againſt) the firſt Model. And as Chriſt ſaid of <hi>Polygamy,</hi> that <hi>from the beginning it was not ſo;</hi> the like may we affirm of the whoredom of <hi>Republicks.</hi> And as the one was but permitted the Jews, ſo the other at this day is but permitted of God, for the hardneſs of mens hearts.</p>
+            <p>Having thus by the way adjuſted the Right of Mo<g ref="char:EOLhyphen"/>narchical Government, and withal ſhewed you, that <hi>that</hi> Government, <hi>more than any,</hi> is from God; and that perſons entruſted with it, <hi>bear</hi> his Authority, and as they are his Vicegerents, they are to do his work, and to perſonate a Righteous God; which Righte<g ref="char:EOLhyphen"/>ouſneſs <hi>they</hi> are to diſplay in the vindication of Gods Honour, in the defence of Gods Laws, in the pro<g ref="char:EOLhyphen"/>tection of Gods people, in the puniſhment of Gods enemies; and this muſt be done with reſpect to God as the chief Judge, to the common good as the ſub<g ref="char:EOLhyphen"/>ordinate end, and that for the diſcharge of their own Conſciences, as they will give an account of their Stewardſhip at the great Day of Judgment. So like<g ref="char:EOLhyphen"/>wiſe Under-Magiſtrates are the Kings Vicegerents, and <hi>their</hi> Righteouſneſs conſiſts in <hi>this;</hi> not only in being true to their God, but faithful to their King: In pre<g ref="char:EOLhyphen"/>ſerving his Prerogatives, in defending his Perſon, in promoting his Honour, in executing his Laws, and every way in their places ſecuring the preſent Eſta<g ref="char:EOLhyphen"/>bliſhment. Which brings me to the Second <hi>Particu<g ref="char:EOLhyphen"/>lar</hi> general.</p>
+            <p>
+               <hi>Secondly.</hi> The peoples Security and Satisfaction in ſuch Governours, or Rulers: <hi>They will do Judgment,</hi> and therefore all Good and Loyal men will bleſs God
+<pb n="6" facs="tcp:66124:6"/>for ſuch a Prince, and ſuch Magiſtrates; becauſe they are at once aſſured of God's protection, and their King's, and thoſe that are employ'd and authoris'd by both: now (if ever) ſhall they lead their lives in all Godlineſs, Peaceableneſs, and Honeſty. Bleſſed cer<g ref="char:EOLhyphen"/>tainly are the people that are in ſuch a caſe! For as Children are often bleſſed for the Piety of their Pa<g ref="char:EOLhyphen"/>rents, and according to God's own promiſe it is to deſcend to many generations: So for the ſake of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> a Prince and Ruler after God's own heart, <hi>Judah</hi> ſhall be bleſſed. And though indeed for <hi>his</hi> ſins the Land did mourn, yet upon his Repentance they and <hi>he</hi> were reſtored to God's favour. And why may I not make this Remark [by the way,] that for the ſake of our late Engliſh <hi>David,</hi> for the Piety and Con<g ref="char:EOLhyphen"/>ſtancy of <hi>Charles</hi> the Firſt, the Defender of the Faith, yea of that Faith once delivered to the Saints, and that even to the Death, God in mercy remembred the ſinful People of this Land, and knock'd off thoſe Chains we enthrall'd our ſelves in; and brought us out of the Land of <hi>Egypt,</hi> out of the houſe of Bon<g ref="char:EOLhyphen"/>dage, and diſabled our many <hi>Pharaohs</hi> and their Hoſts from making us a continued prey?</p>
+            <p>Why may we not impute the Bleſſings we now en<g ref="char:EOLhyphen"/>joy in the many years of our now lawful <hi>Prince,</hi> and <hi>thoſe</hi> to the Prayers and Piety of that Glorious Mar<g ref="char:EOLhyphen"/>tyr, whoſe Memory ought to be dear and precious to us? And would to God that all the Subordinate Ma<g ref="char:EOLhyphen"/>giſtrates of this Realm, who hold their Power by Patent-Royal, would defend the ſame Faith, as he and his Succeſſour do, and worſhip God faithfully in the ſame way, and plead for, and Chriſtianly and courageouſly appear for that Righteouſneſs which is eſtabliſhed by a Law: then might we the people of this Realm confidently hope,
+<note place="margin">Iſa. 48.18.</note> that our <hi>Peace ſhould
+<pb n="7" facs="tcp:66124:6"/>be as a River, and our Righteouſneſs as the waves of the Sea.</hi>
+            </p>
+            <p>For this ſatisfaction would farther inſue, (that the Inhabitants of the Land, and every diſtinct Corpo<g ref="char:EOLhyphen"/>ration, and every Member of the ſame) that they might ſit peaceably under their own Vines, and eat the Fruit of their Labours. And that ſatisfaction ſhall ariſe not only from God's promiſe given to a people ſo
+<note n="*" place="margin">Iſai. 1.19.</note> governed, but from the confidence we ſhall have in ſuch Governours: For they that will not act con<g ref="char:EOLhyphen"/>trary to God's Law, nor to <hi>Magna Charta,</hi> that will not be impoſed upon againſt the Law of the Nati<g ref="char:EOLhyphen"/>on, and the Religion eſtabliſh'd by Law, they will be a terrour to Evil-doers, and a praiſe to them that do well. And when we are thus guarded by God's Bleſſing and the Magiſtrates Power, a wall of Braſs or of Fire cannot be more our Security, than this double Bulwark of Defence.</p>
+            <p>Beſides this Security, <hi>and in it,</hi> this ſatisfaction from ſuch juſt Rulers would ariſe, that the Hypo<g ref="char:EOLhyphen"/>crites in <hi>Sion</hi> would tremble, and be afraid. The reſolved and exemplary Loyalty both to God and the King, in ſuch men, would awe the moſt impudent and daring Delinquents into a ſneakineſs of temper, and into an external, thô not a real compliance. The ſame Bravery and Goodneſs of Minde in a private perſon, we by experience finde, puts oftentimes a check upon the moſt diſſolute and diſaffected. Na<g ref="char:EOLhyphen"/>ked and unarmed Virtue is too powerful for the powers of Darkneſs, and a little light will diſpel the ſhades below. But when the Righteouſneſs of the righteous breaks forth as the light, and ſhineth more and more unto perfect day, then will the Sin<g ref="char:EOLhyphen"/>ners of the night, or of the day, either hide their heads, or themſelves, for ſhame. If now theſe leſſer
+<pb n="8" facs="tcp:66124:7"/>Luminaries are ſo dazling and powerful, how much more the Sun and Moon in the Firmament? for ſo the Scripture Emblematically denotes Magiſtrates to be. When you Magiſtrates diſplay the rays of Righteouſ<g ref="char:EOLhyphen"/>neſs, you will not only diſcover all the corners of naſtineſs, but purge them too. Factious and ſedi<g ref="char:EOLhyphen"/>tious Sinners would ſhun the light of your preſence, and dread your perſons, and would not dare to bla<g ref="char:EOLhyphen"/>ſpheme God and the King; there would be neither railing nor reviling in our ſtreets, at leaſt not againſt the Lord's Anointed.</p>
+            <p>The Apoſtle tells us,
+<note place="margin">1 Tim. 1.9, 10.</note> 
+               <hi>The Law is not made for the righteous man, but for the lawleſs and diſobedient, for the ungodly and ſinners;</hi> and amongſt the reſt that he inſtances in, theſe are ſome; <hi>for Murderers of Fathers, for Manſlayers, for Menſtealers, for Liars, for per<g ref="char:EOLhyphen"/>jured perſons; and if there be any thing that is con<g ref="char:EOLhyphen"/>trary to ſound Doctrine.</hi> And nothing can be more ſo, now adays, than binding Kings in chains, and Nobles in fetters of iron. Nothing can more ſubvert the Law of the Spirit of Life and of the Land, than thoſe Principles which the <hi>Papiſts</hi> and our Diſſenters at this day inſiſt upon. And therefore would but our inferiour Magiſtrates be true to God and the King, to the Law of the Goſpel, and to that Righteouſneſs as now eſtabliſhed by Law, we need not yet fear the Sons of <hi>Corah,</hi> nor all the Machinations or Deſigns of the Conventicle, or of the Conclave. But for this I ſhall farther account for, under the Applicatory part of this Sermon. And ſo I paſs to my laſt Conſidera<g ref="char:EOLhyphen"/>tion, which is,</p>
+            <p>
+               <hi>Thirdly.</hi> The ſatisfaction the Juſt-man hath in do<g ref="char:EOLhyphen"/>ing Judgment. <hi>It is a joy to the juſt to do Judgment.</hi> And herein Magiſtrates with other juſt men are con<g ref="char:EOLhyphen"/>cerned, and what is a comfort to one, is to either,
+<pb n="9" facs="tcp:66124:7"/>the teſtimonie of their Conſciences, that in Simpli<g ref="char:EOLhyphen"/>city and Godly Sincerity, not with fleſhly Wiſdome, but by the Grace of God, they have managed the Af<g ref="char:EOLhyphen"/>fairs of Civil Government in the world; to allude to the Apoſtle's expreſſion.
+<note place="margin">2 Cor. 1.12</note> For nothing more refreſhes the Minde, than a reflex upon its own Innocency; nor any thing affords more ſolid peace and pleaſure, than a good Conſcience kept void of offence both towards God and man. The juſt Steward can look back upon his Diſburſements, and upon his many and great employs and dealings with men, with a calm and a chearful minde: For he is ready to give up his his Account with Joy. Such Juſt Men they have confidence God-ward, and becauſe they have been faithful both to him and to their Office, they will be able to hold up their heads in the day of Judgment.</p>
+            <p>
+               <hi>Samuel,</hi> you know, he was not only a Prophet, but a Judge in <hi>Iſrael;</hi> and thô a wanton and licentious people were uneaſie under his Preſidency, and would not be ſatisfied with his management of Affairs, but ſought by multitude and murmur to diſcharge him from his Government; yet this is his comfort, that as a juſt man he had done Judgment: and for this he hath not only the teſtimony of his Conſcience, but he challenges it from the people too; <hi>Behold, here I am,</hi>
+               <note place="margin">1 Sam. 12.3.</note> 
+               <hi>witneſs against me; whoſe Ox have I taken? or whom have I defrauded? whom have I oppreſſed? or of whoſe hand have I received any bribe, to blinde mine eye therewith?</hi> That is, in other words, Wherein have I acted contrary to the Law? wherein have I been perjured? with whom have I baſely comply'd to the ſubverſion of Government, and the preſent Eſtabliſh<g ref="char:EOLhyphen"/>ment? Thus in a triumphant manner he deſcends the place of Judicature, and reſignes his Office, and ſatiſ<g ref="char:EOLhyphen"/>fies
+<pb n="10" facs="tcp:66124:8"/>both the People and his own Conſcience. This was that which comforted and buoy'd up the Spirit of <hi>Job</hi> under his ſore Afflictions; and you know he was a great man in the Eaſt, and had others under his Conduct and Government, as you may collect from <hi>Job</hi> 31.21.</p>
+            <p>It is poſſible that thoſe that have ſate on high, may be brought to ſit in the duſt, and that thoſe that have judged others, may fall into condemnation: But ſuch a reflex as this, that they have done Judgment, will renew their Joy even in the day of Sorrow.</p>
+            <p>Theſe words, <hi>It is a Joy to the Just to do Judgment,</hi> have theſe various Paraphraſes: that is, Juſt men do Judgment as <hi>their work;</hi> and that not an uneaſie one, but as a labour of Love, and an office of Kindneſs and Charity to a diſtreſſed world. And 'tis their <hi>joy to do Judgment,</hi> implying, that it would be a pain and torment to them to do otherwiſe; and it is the very comfort of their Office, as well as the Duty of it, to do Judgment.</p>
+            <p>And now, Sirs, you that are to judge others, will do well to paſs Judgment upon your ſelves, that the
+<note n="*" place="margin">Rom. 2.1.</note> Obrade of St. <hi>Paul</hi> may never recoyl on either of you. But in the Application of this Diſcourſe, I ſhall addreſs my ſelf to all my Auditory, as being as much concerned in the ſubſequent part, as you to whom I have particularly ſpoken. Beloved, it is granted by all,</p>
+            <p>
+               <hi>Firſt,</hi> That they are to be eſteemed only juſt men, that act up, or according to <hi>their</hi> Principles; that is, to thoſe meaſures, which they are convinced are Ca<g ref="char:EOLhyphen"/>nons, or Rules, by which they are to ſquare their actions. St. <hi>Paul</hi> had the teſtimony of his Conſcience, that he had been an honeſt and juſt man, that he was always true to that way, in which he thought Righ<g ref="char:EOLhyphen"/>teouſneſs was to be advanced. When he was a Pha<g ref="char:EOLhyphen"/>riſee
+<pb n="11" facs="tcp:66124:8"/>he did as a Phariſee, the righteouſneſs of a Phari<g ref="char:EOLhyphen"/>ſee he purſued, and would eſtabliſh. And hence it is, that he declares for his own Juſtification, <hi>I have lived in all good Conſcience, even unto this day;</hi> that is, he had acted according to his Convictions, he was ſincere in his way; he was not ſo much a Fool or a Knave, as to betray his Cauſe, or abuſe <hi>his then</hi> Conſcience, by any baſe compliance, in contradiction to his Prin<g ref="char:EOLhyphen"/>ciples and Profeſſion. And when afterward he had been bleſſed with a new Light, and a better Rule of Righteouſneſs than that of the Scribes and Phariſees, he is as faithful and conſtant as ever he was before.</p>
+            <p>Sequaciouſneſs is always a ſign of a weak or a wic<g ref="char:EOLhyphen"/>ked minde; they are Children in Underſtanding, that are toſſed to and fro with every wind of Doctrine. And they that will meddle with thoſe that are given to change, have bad heads and worſe hearts. A man cannot more plainly proclaim himſelf a Wretch and a Traitor, than to ſide with thoſe that he knows are Enemies to his <hi>Truth,</hi> and would by all or any means ſubvert it. <hi>Judas</hi> is not ſo much branded for his Co<g ref="char:EOLhyphen"/>wardiſe and his Covetouſneſs, as for the Villany of betraying his Maſter and his Gauſe.</p>
+            <p>And now, my Brethren, I appeal to your own Con<g ref="char:EOLhyphen"/>ſciences, Do you not believe that we are happy and bleſſed in the Government of a great and a gracious Prince? Are not the Laws of this Land, under which we live, not only juſt, but good? Are we not happy, and may be ſo under the preſent Eſtabliſhment both in Church and State, as now ſettled by Law? What Priviledge can the Subject either reaſonably deſire, or enjoy, than what he hath? What as a Chriſtian, or Member of a Chriſtian Society, can any man as much as wiſh for, that he is not bleſt with in the Commu<g ref="char:EOLhyphen"/>nion of this Reformed Church of <hi>England?</hi>
+            </p>
+            <pb n="12" facs="tcp:66124:9"/>
+            <p>Brethren, you believe, I hope you do believe what I ſay: You are of our Communion, you are of us, and amongſt us; you are Subjects of the ſame King, and Members of the ſame Church, we have hitherto wal<g ref="char:EOLhyphen"/>ked together as Brethren: The Oath of Allegiance and Supremacy is our Bond of Peace. The Cove<g ref="char:EOLhyphen"/>nant which you made with God in your Baptiſm, by which you were admitted into Chriſt's Church and the Church of <hi>England,</hi> is that Unity of Spirit, by which we are united to Chriſt and to one another. I pray aſk your own Conſciences, and tell me, whe<g ref="char:EOLhyphen"/>ther they would not accuſe and condemn you for perfidious men, if any worldly reſpect ſhould ſo far prevail upon you, as to be in any inſtance inſtrumen<g ref="char:EOLhyphen"/>tal in your Sphere, to diſturb or ſubvert a righteous and peaceable Eſtabliſhment, either in Religion, Church or State.</p>
+            <p>The true and firſt Proteſtants of the <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tion under <hi>Edward</hi> the Sixth, Queen <hi>Elizabeth,</hi> King <hi>James,</hi> bleſſed God for our Reformation; and many of them rather parted with their Lives, than flinch from the conduct of ſo excellent a Church. And why, O why ſhould we caſt a ſham upon our Fore<g ref="char:EOLhyphen"/>fathers! and diſgrace a wiſe and holy Conſtitution, by yielding to thoſe Beaſts of prey, thoſe devouring Wolves, thoſe wild Foxes that would deſtroy our Vineyard, and make our Temples once again Dens of Thieves? Be this far from us, ſay you. But then what means this bleating of the ſheep, and the low<g ref="char:EOLhyphen"/>ing of the oxen which I hear! Why are the moſt Loyal and the moſt Faithful obraded with being Pa<g ref="char:EOLhyphen"/>piſts in Maſquerade, and therefore rail'd at and revil'd for being faithful to God and their King, and that I cannot ſay by the Friends, but the Foes in our own Houſhold? How comes it to paſs that any of us
+<pb n="13" facs="tcp:66124:9"/>ſhould herd it with the Fanatick drove, and by noiſe or Suffrage, or what is worſe, by malicious Stories, and impudent Defamations, blacken that Conſtitution, and that Church, in which we live, and move, and have our being, yea our well-being, either as Men or Chriſtians? It is apparent to all, that have Eyes to ſee, or Underſtandings to conſider, that the divided Sects amongſt us joyn hands and hearts together, and are ſo far Brethren, as to carry on their work of Ini<g ref="char:EOLhyphen"/>quity, to turn once more a peaceable Land into Blood; and to effect what our more open enemies the Papiſts deſign'd, the ruin of our <hi>Engliſh</hi> Monarchy and Prote<g ref="char:EOLhyphen"/>ſtantiſm. O my Soul, come not into their Secret, unto their Aſſembly mine Honour be not thou united; for in their anger they ſlew a man, yea the beſt of men and of Princes, the Lords Anointed, and in their Self-will they digged down a wall; this they have done, and this they are complotting to do again. Curſed be their Anger, for it was and is fierce; and their wrath, for it was and is cruel. May God ſo divide them in <hi>Jacob,</hi> and ſcatter them in our <hi>Iſrael,</hi> that all their Counſels and Machinations may be brought to nought, and they may be as water ſpilt upon the ground. And let no man proſper that wiſhes ill to our <hi>Engliſh</hi> Sion.</p>
+            <p>Hold faſt, my Brethren, the profeſſion of your Faith without wavering, and be not impos'd upon by crafty men that lie in wait to deceive, and with fair Speeches and ſmooth Words would draw you off from your ſtedfaſtneſs. Remember that ye are Engliſhmen and Chriſtians; be true therefore to your Soveraign as your Soveraign, and to your Church, as Reformed according to the truely antient Apoſtolick Form and Catholick Faith.</p>
+            <p>And I adde, <hi>Secondly.</hi> It argues our Sincerity,
+<pb n="14" facs="tcp:66124:10"/>when we are as zealous as ſincere;
+<note place="margin">Gal. 4.18.</note> 
+               <hi>It is good,</hi> ſaith the Apoſtle, <hi>to be zealouſly affected always in a good thing.</hi> For coldneſs of Affection, and indifferency of Minde, argues either the badneſs of our Cauſe, or our Hearts; either that we are not in the Right, or not right in the right way. It is a baſe and diſingenuous affectation, to glory in that new-form'd Nickname, <hi>a Linſie-wolſie man;</hi>
+               <note place="margin">Rev. 3.16.</note> which is ſuch an one whom Chriſt ſays, <hi>He will ſpew out of his mouth;</hi> and really he de<g ref="char:EOLhyphen"/>ſerves to be hated and deſerted by all that pretend to any Principle of Honeſty. <hi>Theſe</hi> Moderate Men (as ſometimes they call themſelves) are the Foes of our own Houſhold; they aſſoon as any would give us up as a prey into the hands of our Enemies. All heads, and hearts, and hands, I am afraid, are now on work to pluck up and pull down, even that Vineyard which God hath planted, and that Houſe which he owns as <hi>his Houſe of Prayer.</hi> And now, if ever, ought we to ſtand in the gap, to ſhow our ſelves true and ſincere <hi>Proteſtants,</hi> and that not only in decla<g ref="char:EOLhyphen"/>ring againſt the <hi>Conclave,</hi> but the <hi>Conventicle</hi> and the <hi>Claſſis.</hi> Theſe are the Vermin and the Vipers that would eat through their Mothers Belly. And being for theſe many years warm'd by the benign Influence and Government of a Gracious Prince, begin now to hiſs, and more than to ſhew their Sting. Ah Lord! If we have any love for God or our Country, for Church or State, let us not unconcernedly look on, and ſee <hi>both</hi> running into Ruine, without giving a helping hand to prevent ſuch a deſolation. Let us be as active in the right way, as our Enemies are in the wrong. And let us who are of one Communion, be of one Heart and of one <hi>Way;</hi> let us joyn together as Brethren, that have the ſame Father and Mother, and the ſame Intereſt. Let us learn Zeal and Union,
+<pb n="15" facs="tcp:66124:10"/>even from our Enemies; for ſo thoſe are that would upon any account alter the preſent Eſtabliſhment, un<g ref="char:EOLhyphen"/>der which we may be bleſſed in Body, Soul, and Eſtate.</p>
+            <p>But, my Brethren, if there are any amongſt us that, like <hi>Judas,</hi> put their hands into the Diſh with us, and then go forth and betray; let them aſſuredly know, that if they meet not with his Fate in this world, they may expect his Portion in the other.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
